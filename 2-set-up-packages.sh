@@ -1,2 +1,2 @@
-echo "Downloading packages. - yarn, node, docker, eslint"
-brew install yarn node docker eslint
+echo "Downloading packages. - yarn, node, docker, eslint, git"
+brew install yarn node docker eslint git
