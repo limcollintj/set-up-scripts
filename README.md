@@ -1,4 +1,4 @@
-# set-up-scripts
+# Set-up-scripts
 Set up scripts for new computers to make life easier
 
 # Overview 
